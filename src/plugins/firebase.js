@@ -7,4 +7,4 @@ import firebaseConfig from '../../firebaseConfig'
 
 firebase.initializeApp(firebaseConfig)
 
-Vue.prototype.$firbase = firebase
+Vue.prototype.$firebase = firebase
